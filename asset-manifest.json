@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/json-reducer/static/js/main.68096d18.chunk.js",
-    "main.js.map": "/json-reducer/static/js/main.68096d18.chunk.js.map",
+    "main.js": "/json-reducer/static/js/main.aa3d77bb.chunk.js",
+    "main.js.map": "/json-reducer/static/js/main.aa3d77bb.chunk.js.map",
     "runtime-main.js": "/json-reducer/static/js/runtime-main.b5466bf3.js",
     "runtime-main.js.map": "/json-reducer/static/js/runtime-main.b5466bf3.js.map",
     "static/css/2.700233f9.chunk.css": "/json-reducer/static/css/2.700233f9.chunk.css",
-    "static/js/2.99742422.chunk.js": "/json-reducer/static/js/2.99742422.chunk.js",
-    "static/js/2.99742422.chunk.js.map": "/json-reducer/static/js/2.99742422.chunk.js.map",
+    "static/js/2.306aa6df.chunk.js": "/json-reducer/static/js/2.306aa6df.chunk.js",
+    "static/js/2.306aa6df.chunk.js.map": "/json-reducer/static/js/2.306aa6df.chunk.js.map",
     "index.html": "/json-reducer/index.html",
     "static/css/2.700233f9.chunk.css.map": "/json-reducer/static/css/2.700233f9.chunk.css.map",
-    "static/js/2.99742422.chunk.js.LICENSE.txt": "/json-reducer/static/js/2.99742422.chunk.js.LICENSE.txt",
+    "static/js/2.306aa6df.chunk.js.LICENSE.txt": "/json-reducer/static/js/2.306aa6df.chunk.js.LICENSE.txt",
     "static/media/index.css": "/json-reducer/static/media/roboto-vietnamese-400-normal.3230f9b0.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.b5466bf3.js",
     "static/css/2.700233f9.chunk.css",
-    "static/js/2.99742422.chunk.js",
-    "static/js/main.68096d18.chunk.js"
+    "static/js/2.306aa6df.chunk.js",
+    "static/js/main.aa3d77bb.chunk.js"
   ]
 }
