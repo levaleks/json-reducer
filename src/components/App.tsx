@@ -3,17 +3,12 @@ import { CssBaseline, GlobalStyles } from '@mui/material';
 import { ThemeProvider } from '@mui/material/styles';
 import '@fontsource/roboto';
 import { useBeforeunload } from 'react-beforeunload';
-import ReactGA from 'react-ga';
 import {
     EslintReportExplorer,
     EslintReportExplorerStore,
     EslintReportExplorerStoreContext,
 } from './EslintReportExplorer';
 import { muiTheme } from './muiTheme';
-
-if (process.env.NODE_ENV === 'production' && process.env.REACT_APP_GA_ID) {
-    ReactGA.initialize(process.env.REACT_APP_GA_ID);
-}
 
 export const App: React.FC = () => {
     const [eslintReportExplorerStore] = useState(new EslintReportExplorerStore());
