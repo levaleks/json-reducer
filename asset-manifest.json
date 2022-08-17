@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/json-reducer/static/js/main.5af80922.chunk.js",
-    "main.js.map": "/json-reducer/static/js/main.5af80922.chunk.js.map",
+    "main.js": "/json-reducer/static/js/main.1afab957.chunk.js",
+    "main.js.map": "/json-reducer/static/js/main.1afab957.chunk.js.map",
     "runtime-main.js": "/json-reducer/static/js/runtime-main.b5466bf3.js",
     "runtime-main.js.map": "/json-reducer/static/js/runtime-main.b5466bf3.js.map",
     "static/css/2.700233f9.chunk.css": "/json-reducer/static/css/2.700233f9.chunk.css",
-    "static/js/2.dd0f09d7.chunk.js": "/json-reducer/static/js/2.dd0f09d7.chunk.js",
-    "static/js/2.dd0f09d7.chunk.js.map": "/json-reducer/static/js/2.dd0f09d7.chunk.js.map",
+    "static/js/2.9785b507.chunk.js": "/json-reducer/static/js/2.9785b507.chunk.js",
+    "static/js/2.9785b507.chunk.js.map": "/json-reducer/static/js/2.9785b507.chunk.js.map",
     "abc.js": "/json-reducer/005284157b6335a9780145e4bdeb6660.js",
     "markdown.js": "/json-reducer/01712a613b1582dbdd3765c8cc0ffdc1.js",
     "haml.js": "/json-reducer/02260b192dca1b347cf6ac3ae15c5fe1.js",
@@ -448,13 +448,13 @@
     "mode-dockerfile.js": "/json-reducer/ffc8addee23ebc4367774a0813b67f95.js",
     "index.html": "/json-reducer/index.html",
     "static/css/2.700233f9.chunk.css.map": "/json-reducer/static/css/2.700233f9.chunk.css.map",
-    "static/js/2.dd0f09d7.chunk.js.LICENSE.txt": "/json-reducer/static/js/2.dd0f09d7.chunk.js.LICENSE.txt",
+    "static/js/2.9785b507.chunk.js.LICENSE.txt": "/json-reducer/static/js/2.9785b507.chunk.js.LICENSE.txt",
     "static/media/index.css": "/json-reducer/static/media/roboto-vietnamese-400-normal.3230f9b0.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.b5466bf3.js",
     "static/css/2.700233f9.chunk.css",
-    "static/js/2.dd0f09d7.chunk.js",
-    "static/js/main.5af80922.chunk.js"
+    "static/js/2.9785b507.chunk.js",
+    "static/js/main.1afab957.chunk.js"
   ]
 }
