@@ -1,6 +1,6 @@
 import React from 'react';
 import { observer } from 'mobx-react-lite';
-import { AppBar, Toolbar, useTheme, Box } from '@mui/material';
+import { AppBar, Toolbar, useTheme, Box, Typography } from '@mui/material';
 import { SplitPane } from 'react-collapse-pane';
 import { ExportJSONPane } from './components/InputJSONPane';
 import { CodeEditorPane } from './components/CodeEditorPane';
@@ -27,7 +27,9 @@ export const EslintReportExplorer: React.FC = observer(() => {
                                 width={24}
                                 height={24}
                             />
-                            JSON Reducer
+                            <Typography variant="h1" color="inherit" fontSize="inherit">
+                                JSON Reducer
+                            </Typography>
                         </$.LinkWithIcon>
                         <Box sx={{ flexGrow: 1 }} />
                         <$.LinkWithIcon
